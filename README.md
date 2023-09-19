@@ -1,1 +1,1 @@
-# ComputeChemTutorial
+# ComputeChemTutorial :woman_technologist: :atom:
