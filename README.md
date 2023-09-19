@@ -1,4 +1,4 @@
-# ComputeChemTutorial :woman_technologist: :atom:
+# ComputeChem Cookbook :woman_technologist: :atom:
 
 ## Tutorials by Shaghayegh Sadeghi
 
