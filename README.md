@@ -5,8 +5,6 @@
 Morgan Fingerprint Tutorial
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1MaqIHrR956pPA86izjmA-gq_RsrRcMtp?usp=sharing)
 
----
-
 
 ## A Selection of Python Libraries for Graph Embedding
 
@@ -25,8 +23,11 @@ Morgan Fingerprint Tutorial
 |[Jraph](https://jraph.readthedocs.io/en/latest/)|:white_check_mark:	|:white_check_mark:		| :white_check_mark:		|	|Python, JAX|DeepMinD|
 |[Deepchem](https://deepchem.io/)|:white_check_mark:	|:white_check_mark:	| 	|	|Tensorflow, pytorch, jax| Deep Forest Sciences (Bharath Ramsundar)|
 
-
+---
 ## Tutorials by others
+
+[A Gentle Introduction to Graph Neural Networks](https://distill.pub/2021/gnn-intro/)
+
 
 ## Large Language Models in Chemistry
 * [**Chemical language models for de novo drug design: Challenges and opportunities**](https://www.sciencedirect.com/science/article/pii/S0959440X23000015)
