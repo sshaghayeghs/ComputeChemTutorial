@@ -5,9 +5,25 @@
 Morgan Fingerprint Tutorial
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1MaqIHrR956pPA86izjmA-gq_RsrRcMtp?usp=sharing)
 
+---
 
 
+## A Selection of Python Libraries for Graph Embedding
 
+|Package|Homogeneous|	Heterogeneous| 	Knowledge graphs|	Graphs without data associated with nodes|Framework| Contributor|
+|-------|-----------|--------------|------------------|------------------------------------------|---------|------------|
+|[Pytorch Geometric (PyG)](https://pytorch-geometric.readthedocs.io/en/latest/)|:white_check_mark:		|:white_check_mark:			|:white_check_mark:	 	|:white_check_mark:			|PyTorch|Dortmund University of Technology|
+|[Pykeen](https://pykeen.readthedocs.io/en/stable/)                 |           |	            | :white_check_mark:		|:white_check_mark:		|PyTorch&University of Bonn|
+|[Stellargraph](https://stellargraph.readthedocs.io/en/latest/)|:white_check_mark:|:white_check_mark:	| :white_check_mark:	|:white_check_mark:	|TensorFlow|CSIRO's Data61|
+|[Spektral](https://graphneural.network/)|:white_check_mark:|:white_check_mark:	| 	|	|TF2/ Keras&Daniele Grattarola |
+|[Deep Graph Library (DGL)](https://www.dgl.ai/)|:white_check_mark:	|:white_check_mark:	| :white_check_mark:		|:white_check_mark:		|PyTorch/ MXNet/ TensorFlow| New York University and Amazon Web Services (AWS)|
+|[OpenNE](https://github.com/thunlp/OpenNE)|:white_check_mark:	|	| 	|:white_check_mark:		|TensorFlow/ PyTorch | Tsinghua University|
+|[CogDL](https://docs.cogdl.ai/en/latest/)|:white_check_mark:	|:white_check_mark:		| :white_check_mark:	|:white_check_mark:		|PyTorch/ TensorFlow &Tsinghua University|
+|[Graphvite](https://graphvite.io/)|:white_check_mark:|	| :white_check_mark:		|:white_check_mark:	|Linux/ Python|Mila-Quebec AI Institute |
+|[Paddle Graph Learning (PGL)](https://pgl.readthedocs.io/en/latest/)|:white_check_mark:|:white_check_mark:	| :white_check_mark:		|:white_check_mark:	|PaddlePaddle/ Cython|Baidu|
+|[PyTorch GNN Library (ptgnn)](https://github.com/microsoft/ptgnn)|:white_check_mark:	|	| 	|	|PyTorch|Microsoft|
+|[Jraph](https://jraph.readthedocs.io/en/latest/)|:white_check_mark:	|:white_check_mark:		| :white_check_mark:		|	|Python, JAX|DeepMinD|
+|[Deepchem](https://deepchem.io/)|:white_check_mark:	|:white_check_mark:	| 	|	|Tensorflow, pytorch, jax| Deep Forest Sciences (Bharath Ramsundar)|
 
 
 ## Tutorials by others
