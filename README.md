@@ -27,6 +27,7 @@ Morgan Fingerprint Tutorial
 ## Tutorials by others
 
 [A Gentle Introduction to Graph Neural Networks](https://distill.pub/2021/gnn-intro/)
+
 [Stanford CS224W: Machine Learning with Graphs](https://youtube.com/playlist?list=PLoROMvodv4rPLKxIpqhjhPgdQy7imNkDn&si=At9TZfN77X9m47Nj)
 
 ## Large Language Models in Chemistry
